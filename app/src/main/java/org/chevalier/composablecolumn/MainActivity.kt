@@ -56,7 +56,7 @@ class MainActivity : ComponentActivity() {
 
 val cardTexts = listOf("Satu", "Dua", "Tiga", "Empat")
 val containerText = listOf("Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "Aenean quis aliquam tortor. Fusce magna nulla, pellentesque quis feugiat in, pretium a urna.", "Phasellus ornare ligula in est fermentum, in vestibulum ligula lobortis.",
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", "Aenean quis aliquam tortor. Fusce magna nulla, pellentesque quis feugiat in, pretium a urna.",)
+    "Lorem ipsum dolor sit amet, consechjtetur adipiscing elit.", "Aenean quis aliquam tortor. Fusce magna nulla, pellentesque quis feugiat in, pretium a urna.",)
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
